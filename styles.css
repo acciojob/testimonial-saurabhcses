@@ -1,1 +1,24 @@
-/*  your css code here. If applicable */
+body {
+      background-color: #f4f4f4;
+      padding: 10px;
+    }
+    .testimonial {
+      background: #fff;
+	  font-size: 0.0000000001px
+      border: 1px solid #ddd;
+      padding: 1px;
+      margin-bottom: 20px;
+      border-radius: 2px;
+    }
+
+    .testimonial p {
+      margin: 0;
+      font-size: 16px;
+      line-height: 1.5;
+    }
+
+    .author {
+      text-align: right;
+      font-style: italic;
+      margin-top: 10px;
+    }
